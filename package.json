@@ -33,13 +33,13 @@
     ]
   },
   "devDependencies": {
-    "@storybook/addon-essentials": "^7.6.5",
+    "@storybook/addon-essentials": "^8.6.3",
     "@storybook/addon-interactions": "^7.6.5",
     "@storybook/addon-links": "^7.6.5",
-    "@storybook/addon-onboarding": "^1.0.10",
-    "@storybook/blocks": "^7.6.5",
-    "@storybook/react": "^7.6.5",
-    "@storybook/react-vite": "^7.6.5",
+    "@storybook/addon-onboarding": "^8.6.3",
+    "@storybook/blocks": "^8.6.3",
+    "@storybook/react": "^8.6.3",
+    "@storybook/react-vite": "^8.6.3",
     "@storybook/test": "^7.6.5",
     "@testing-library/jest-dom": "^6.1.5",
     "@testing-library/react": "^14.1.2",
@@ -58,11 +58,11 @@
     "prettier": "^3.1.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "storybook": "^7.6.5",
+    "storybook": "^8.6.3",
     "styled-components": "^6.1.1",
     "typescript": "^5.3.3",
     "vite": "^5.0.10",
-    "vite-plugin-dts": "^3.6.4",
+    "vite-plugin-dts": "^4.5.3",
     "vitest": "^1.0.4"
   },
   "peerDependencies": {
